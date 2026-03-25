@@ -4,7 +4,7 @@
 PLADE is an AI-powered interactive application designed to make coding and problem-solving more engaging through a game-based environment. Instead of relying on static questions or traditional learning platforms, PLADE allows users to interact with systems, solve logic-based challenges, and improve their debugging skills in real time.
 
 This project was developed as part of a hackathon, focusing on the integration of artificial intelligence with interactive application design.
-
+Note : The project was initially developed using Blueprint Visual Scripting and later converted into C++ for improved control and maintainability. This repository contains only the core logic (C++ and AI components). Textures, maps, and 3D assets have been intentionally excluded to reduce repository size, protect project assets, and prevent unauthorized reuse or replication.
 ---
 
 ## Core Concept
