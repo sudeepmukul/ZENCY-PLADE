@@ -1,4 +1,4 @@
-# PLADE — Play & Code
+# PLADE : Play & Code
 ## Overview
 
 PLADE is an AI-powered interactive application designed to make coding and problem-solving more engaging through a game-based environment. Instead of relying on static questions or traditional learning platforms, PLADE allows users to interact with systems, solve logic-based challenges, and improve their debugging skills in real time.
